@@ -15,10 +15,45 @@ With hands-on experience in **predictive modeling, automation, and agentic AI sy
 
 ---
 
+### 💼 Work Experience  
+
+#### **Growth Wireless LLC** — *Data Analyst*  
+📍 Houston, TX | 🗓️ February 2025 – Present  
+- Developed and maintained **15+ AI-powered dashboards** in Power BI and Tableau, leveraging ML algorithms for real-time predictive insights across marketing, sales, and product teams — improving decision-making by **40%**.  
+- Optimized **5+ predictive models** using **XGBoost** and **Random Forest**, boosting forecasting accuracy by **15%** through hyperparameter tuning and feature engineering.  
+- Collaborated with business development to leverage **AI-driven sales insights**, increasing conversion rates by **10%** with automated recommendation systems.  
+- Implemented **Python-based data validation checks** using ML, reducing data errors by **20%** and ensuring compliance with industry standards.  
+
+---
+
+#### **Kalsoftech LLC** — *Jr. Software Developer*  
+📍 Portland, OR | 🗓️ September 2024 – February 2025  
+- Designed **20+ AI-enhanced visualizations** using Tableau, Power BI, and QuickSight with ML integrations, improving report generation speed by **40%**.  
+- Built intelligent **ETL pipelines** in Python & SQL with automated data quality checks and **ML-based anomaly detection**, enhancing efficiency by **25%**.  
+- Collaborated with cross-functional teams to deploy **AI-driven workflows**, optimizing business processes for a **20%** performance gain.  
+
+---
+
+#### **Amazon** — *Machine Learning Data Associate*  
+📍 Hyderabad, India | 🗓️ August 2020 – June 2022  
+- Managed **2M+ dataset records** for ML model training using advanced preprocessing, improving precision by **12%**.  
+- Developed **SQL-based ETL pipelines** with ML-powered data quality validation, reducing processing time by **50%**.  
+- Applied predictive analytics to **employee performance data**, increasing productivity by **30%**.  
+- Identified and automated operational bottlenecks using ML techniques, improving overall workflow efficiency by **25%**.  
+
+---
+
+#### **TS Transco (132KV/230KV Substation)** — *Substation Analysis Intern*  
+📍 Karimnagar, India | 🗓️ May 2018  
+- Gained real-time experience in **electrical system operations** and **data analytics** for high-voltage power networks.  
+- Analyzed substation data from relays/meters using **SQL** and **Power BI**, generating actionable insights for efficiency monitoring.  
+
+---
+
 ### 🔭 I’m currently working on  
-- Building **AI-powered analytics dashboards** using Power BI and machine learning for predictive insights  
-- Developing **GenAI automation pipelines** with intelligent MCP server integration  
-- Creating end-to-end **data pipelines for real-time analytics** using Python, AWS, and Databricks  
+- Building **AI-powered analytics dashboards** for real-time predictive insights  
+- Developing **GenAI automation pipelines** with autonomous MCP server integration  
+- Creating **end-to-end ML data pipelines** using Python, AWS, and Databricks  
 
 ---
 
@@ -33,13 +68,6 @@ With hands-on experience in **predictive modeling, automation, and agentic AI sy
 - Open-source projects in **AI, ML, or GenAI Automation**  
 - Research on **AI workflow agents, intelligent document processing, or predictive systems**  
 - Cloud-native data solutions integrating **AWS + Databricks + GenAI**
-
----
-
-### 💬 Ask me about  
-- Building scalable **ETL and ML pipelines**  
-- Implementing **AI dashboards** using Power BI, Tableau, or QuickSight  
-- Designing **secure, production-grade AI systems** using MCP servers and GenAI models  
 
 ---
 
@@ -75,10 +103,10 @@ With hands-on experience in **predictive modeling, automation, and agentic AI sy
 
 ### 🧩 Featured Projects  
 #### 📚 [CareerPath AI](#)
-AI-driven learning roadmap generator built with **Flask + GenAI**, creating personalized skill pathways for Cybersecurity, AI, and Data Science learners. Improved engagement by 45%.  
+AI-driven learning roadmap generator built with **Flask + GenAI**, creating personalized skill pathways for Cybersecurity, AI, and Data Science learners. Improved engagement by **45%**.  
 
 #### 🧠 [Intelligent Email Responder](#)
-Autonomous **MCP Server-based GenAI system** that handles and responds to emails intelligently, reducing response times by 75%.  
+Autonomous **MCP Server-based GenAI system** that handles and responds to emails intelligently, reducing response times by **75%**.  
 
 #### 📄 [Intelligent PDF Data Pipeline](#)
 AI OCR + GenAI-powered agentic system achieving **99% accuracy** in data extraction from complex PDF documents.  
